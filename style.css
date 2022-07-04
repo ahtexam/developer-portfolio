@@ -13,6 +13,7 @@ span {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -36,4 +37,9 @@ section {
 #top-banar {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: ;
+
 }
