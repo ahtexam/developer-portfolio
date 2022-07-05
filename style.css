@@ -7,11 +7,15 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 span {
     color: orange;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -34,7 +38,7 @@ section {
     font-weight: 700;
 }
 
-#top-banar {
+.top-banar {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
@@ -47,4 +51,31 @@ section {
 
 #only {
     padding-right: 8%;
+}
+
+.orang {
+    color: orange;
+
+}
+
+.EXperiences-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 30px grey;
+
+}
+
+#full-stack-web-developer {
+    border-left: 10px solid tomato;
+}
+
+#baby-web-developer {
+    border-left: 10px solid blue;
+}
+
+footer {
+    text-align: center;
 }
