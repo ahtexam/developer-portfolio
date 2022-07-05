@@ -81,5 +81,8 @@ footer {
 }
 
 .exp-bg {
-    background-image: url(emages/exp-bg.png);
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
 }
