@@ -79,3 +79,7 @@ span {
 footer {
     text-align: center;
 }
+
+.exp-bg {
+    background-image: url(emages/exp-bg.png);
+}
